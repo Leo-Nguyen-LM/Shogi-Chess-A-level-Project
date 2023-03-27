@@ -1,0 +1,1 @@
+Check_Board(gs.board)[9]
